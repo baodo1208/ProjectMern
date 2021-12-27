@@ -1,0 +1,8 @@
+/admin2
+/frontend/build
+/frontend/node_modules
+/frontend/.env
+/admin/build
+/admin/node_modules
+/admin/.env
+
